@@ -58,7 +58,9 @@ http://app.prototypo.io/ - font creator app, pretty cool
 * https://github.com/webpack/react-starter - Webpack’s React Starter Template
 
 ## Visual Design Frameworks
+
 #### These are the only two frameworks I'd ever recommend outside of Bootstrap. 
+
 * http://semantic-ui.com/ - Really solid visual design framework. Has more options than Bootstrap, but less community and platform support.
 * https://material.angularjs.org/latest/  - Angular Material integration
 
@@ -114,7 +116,9 @@ Normalize:
 * [pills](http://arkpod.in/pills/)
 
 ## Style Guides
+
 #### These are style guides that I generally adhere to as best as I can. 
+
 * HTML / CSS  http://workmanship.io/#
 * Angular - https://github.com/johnpapa/angular-styleguide
 * JS - http://standardjs.com/rules.html
@@ -141,9 +145,8 @@ Normalize:
 
 
 # Tutorials / Helpful Resources 
-### Creating CRUD app with $resource
 http://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/
-requires this NPM module - https://www.npmjs.com/package/ng-resource
+_Note:_ `$resource` requires the `ng-resource` library. 
 
 ### Advanced Routing with Angular
 https://medium.com/opinionated-angularjs/advanced-routing-and-resolves-a2fcbf874a1c
