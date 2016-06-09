@@ -127,11 +127,11 @@ a.sidebar-nav-item:focus {
 }
 
 a {
-  color: #16a085;
+  color: #1abc9c;
 }
 
 a:hover {
-  color: #128871; 
+  color: #16a085; 
 }
 
 @media (min-width: 48em) {
