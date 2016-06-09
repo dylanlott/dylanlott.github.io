@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WorldBuilder
+title: WorldBuilder - A Case Study
 ---
 
 ### What is WorldBuilder? 
