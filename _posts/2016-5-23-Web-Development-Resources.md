@@ -72,6 +72,7 @@ http://app.prototypo.io/ - font creator app, pretty cool
 * http://codepen.io/mildrenben/pen/WvGEzm - email and sign up widget that looks great
 * http://codepen.io/pixelchar/pen/rfuqK - best responsive table I've ever seen, separates into panels for mobile, in SCSS
 * http://codepen.io/davidkpiano/pen/xwyVXO?editors=110 - amazing css only calendar
+* [https://codepen.io/andreasstorm/pen/ZGjNwZ](https://codepen.io/andreasstorm/pen/ZGjNwZ) - Hands down the best and easiest to use toggle switches for material design that I've come across
 
 ## Angular Directives
 * http://mbenford.github.io/ngTagsInput/
