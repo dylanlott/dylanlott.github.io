@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hi there. I'm Dylan. I'm a designer, developer, and douche bag. 
+Hi there. I'm Dylan. I'm a designer, developer, coffee addict, starcraft fanboy, self-deprecationist, musician, and hobbyist car mechanic. 
 
 I'm currently involved in or working on: 
 
