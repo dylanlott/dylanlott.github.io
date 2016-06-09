@@ -3,7 +3,7 @@ layout: post
 title: WorldBuilder - A Case Study
 ---
 
-### What is WorldBuilder? 
+### The Concept
 
 WorldBuilder is a platform in progress to help writers, game developers, and creatives manage the worlds that they create. 
 
@@ -17,8 +17,8 @@ The app will allow you to create a world, add peoples and characters to it, and 
 I like doing build threads for a few different reasons. First off, for the same reason they're handy with cars: They make you think through things. Second, they make you plan and give you bite sized tasks to finish. 
 For me, this is extremely handy. For these reasons, I'm going to run through the entire build process from start to finish for a web app in hopes that it helps beginners see exactly how I create a web app, from initial concept through to finished and deployed MVP. Let's dive in. 
 
-## Initial Concept 
-The initial concept for WorldBuilder sparked in my head when I was browsing reddit. There's an entire subreddit devoted to it called /r/worldbuilding and I dove in. I initially became interested in "world building" as it's called when I was creating a universe of my own for a card game that I was creating. I've always been fascinated by Tolkien's language and world building abilities as well, and finding the subreddit only furthered that curiosity. 
+## Finding The Niche 
+The initial concept for WorldBuilder sparked in my head when I was browsing reddit. There's an entire subreddit devoted to it called /r/worldbuilding and I dove in. I initially became interested in "world building" as it's called when I was creating a universe of my own for a card game that I was making with a friend. I've always been fascinated by Tolkien's language and world building abilities as well, and finding the subreddit with so many other people (about 73k subscribers) with the same interest only furthered that fascination. 
 
 Upon further investigation, I discovered that there was really no specific tool for world building. Most people were just using Evernote or Google Drive to store their creations. Niche tools are some of my favorite because they very quickly garner a following if done correctly, and the communities built around them tend to be very involved and easy to garner feedback from. 
 
