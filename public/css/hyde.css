@@ -126,6 +126,14 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
+a {
+  color: #16a085;
+}
+
+a:hover {
+  color: #128871; 
+}
+
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
