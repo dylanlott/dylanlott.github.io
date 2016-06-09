@@ -11,6 +11,8 @@ I've made them into small, bite-sized rules that you can follow, cause we all kn
 
 ## 1. White space is your friend - Double the whitespace between stuff. 
 
+If everything is cramped together it's probably one of your biggest issues. Right off the bat, this is the first thing I start to adjust when I take over a project. 
+Just do yourself a favor and double the space and see how it looks. It'll probably look better. 
 
 ## 2. Use a framework 
 
