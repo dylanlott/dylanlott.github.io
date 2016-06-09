@@ -41,7 +41,7 @@ We want to be able to create, find all, find one, update, and delete worlds, obj
 * Sign up 
 * Logout 
 * User Profile 
-* CRUD for Worlds 
+* CRUD for Worlds
 
 ### Stretch Features 
 * CRUD for Characters 
