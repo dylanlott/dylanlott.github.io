@@ -39,7 +39,7 @@ http://app.prototypo.io/ - font creator app, pretty cool
 * http://mikethedj4.github.io/Webkit-Scrollbar-Generator/ - Custom scrollbar CSS generator
 
 ## SVG's
-* https://jakearchibald.github.io/svgomg/ - Amazing editor and compressor for SVGs
+* https://jakearchibald.github.io/svgomg/ - Amazing editor and compressor for SVGs, I use it pretty frequently for larger SVG projects 
 
 ## Buttons
 * http://btn.jonmongeau.com
@@ -50,20 +50,17 @@ http://app.prototypo.io/ - font creator app, pretty cool
 * http://bootswatch.com (based on bootstrap)
 * http://bootsnipp.com/
 * http://presentation.creative-tim.com/ - Freebie Bootstrap Kits
+* Semantic UI
 
 ## React Tools
 * http://reapp.io/ui.html
 * http://www.reactnative.com/
 * https://github.com/webpack/react-starter - Webpack’s React Starter Template
 
-## React Tutorials / Articles
-* http://survivejs.com/webpack_react/webpack_and_react/ - Good getting started guide
-
 ## Visual Design Frameworks
+#### These are the only two frameworks I'd ever recommend outside of Bootstrap. 
 * http://semantic-ui.com/ - Really solid visual design framework. Has more options than Bootstrap, but less community and platform support.
 * https://material.angularjs.org/latest/  - Angular Material integration
-* http://daemonite.github.io/material/ great material design starter point
-* http://codepen.io/zavoloklom/pen/Gubja - Good material design bootstrap button theme, solid colors
 
 ## Code Snippets / Codepens 
 * http://codepen.io/hone/pen/jERzmd - Material Design Search Transition
@@ -81,136 +78,69 @@ http://app.prototypo.io/ - font creator app, pretty cool
 
 ## Angular Tips / Tricks
 * https://scotch.io/quick-tips/pretty-urls-in-angularjs-removing-the-hashtag - Get rid of hashbangs in URL
-* http://stackoverflow.com/questions/22102815/how-to-delete-sign-in-angular-ui-router-urls - More info on getting rid of hashbangs in URL
-
-jQuery UI (has datepicker)
-* http://jqueryui.com
-* _Note:_ Since the classes, etc., are all standard there's a lot of CSS out there already for the jQuery UI datpicker. [Here's one tutorial from Hongkiat](http://www.hongkiat.com/blog/jquery-ui-datepicker/).
+* http://stackoverflow.com/questions/22102815/how-to-delete-sign-in-angular-ui-router-urls - Troubleshooting `$location` issues with Angular hashbang URLs
 
 ## Desktop Apps in JS
 * https://www.trueinteractions.com/tint2/docs/ - 
 * http://electron.atom.io/
 
-## JavaScript CDNs
-https://cdnjs.com/
-https://developers.google.com/speed/libraries/devguide#jquery
-https://developers.google.com/speed/libraries/devguide#jquery-ui
-
-## Boilerplates / Seeds 
-
-#### HTML5 boilerplate:
-http://html5boilerplate.com/
-
-#### Best boilerplate WordPress theme:
-http://underscores.me/
-
-## Backgrounds and Textures
-http://subtlepatterns.com/
-
-## Color palette selection:
-http://coolors.co/
-https://color.adobe.com/
-http://flatuicolors.com/
-
-## References & News:
-http://css-tricks.com/
-http://codyhouse.co/ - great website for code snippets
-http://www.hongkiat.com/
-http://davidwalsh.name
-htthttp://mynameismatthieu.com/WOW/p://materialdesignblog.com/
-
-## JS Libraries
-http://mynameismatthieu.com/WOW/ - Reveal animations that are easy to use
-
-## Databases
-http://gun.js.org / https://github.com/amark/gun - realtime, "Dropbox for databases" / "your own hosted firebase"
-
-## Inspiration:
-http://www.awwwards.com/
-http://fltdsgn.com/
-
-## Mockups:
-Web Browser Mockups - http://designscrazed.org/free-web-browser-mockups-psd/
+## Color palette and backgrounds
+* http://subtlepatterns.com/
+* http://coolors.co/
+* https://color.adobe.com/
+* http://flatuicolors.com/
+* http://paletton.com/
+* [PaintStrap](http://paintstrap.com/)
 
 ## Deployment
-https://www.digitalocean.com/community/tutorials/how-to-install-a-mean-js-stack-on-an-ubuntu-14-04-server
+* nodeJS and nginx: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-14-04
+* https://www.digitalocean.com/community/tutorials/how-to-install-a-mean-js-stack-on-an-ubuntu-14-04-server
+* mongoDB: https://www.digitalocean.com/community/tutorials/how-to-install-a-mean-js-stack-on-an-ubuntu-14-04-server
 
-## DigitalOcean Deployment
-#### nodeJS and nginx: https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-14-04
-
-#### mongoDB: https://www.digitalocean.com/community/tutorials/how-to-install-a-mean-js-stack-on-an-ubuntu-14-04-server
-
-## Miscellaneous:
-### Instructional Plugins:
-
-* http://www.sitepoint.com/web-tour-instructional-plugins/
-* Extremely useful if you're a mozillian: https://addons.mozilla.org/en-US/firefox/addon/auto-reload/
-* Test social media meta data linking cards - https://moz.com/blog/meta-data-templates-123\
-* http://www.webdesignrepo.com
-* http://www.advancedcustomfields.com/
 
 ## Sublime Text Plugins / Mods / Themes
 * Emmet - http://emmet.io/download/
 * Afterglow - http://yabatadesign.github.io/afterglow-theme/
 * Brogrammer - https://github.com/kenwheeler/brogrammer-theme
-* Floobits - 
-
-
-## AutoPrefix CSS -
+* Floobits - best pair programming plugin I've ever found. Almost no lag.  
+* HTML / CSS / JS Prettifier - Search for this and install it using Sublimes package manager. It's amazing. 
 * http://pleeease.io/play/ - Autoprefixer with additional tools but not in-IDE like AutoPrefix is
 
-## Color:
-* http://paletton.com/
-
 Normalize:
-* http://necolas.github.io/normalize.css/
-_Note: I personally like this a lot more than the Full CSS Reset (http://meyerweb.com/eric/tools/css/reset/). This retains most of the browser default styles, it just "normalizes" them across all browsers. That way you don't have to go through and redefine the sizes of H1, H2, etc._
-
+* [Normalize.css](http://necolas.github.io/normalize.css/) _(I like Normalize more than a hard reset for CSS.)_
 * reset.css (I don't use this very often, see above) 
-* normalize.css
 * skeleton.css - responsive, ultra-lightweight CSS library - super kickass for small projects, not very powerful for more advanced stuff, though.
-* jeet - CSS grid only
-
-## Build Scripts
-* https://github.com/purifycss/grunt-purifycss / https://github.com/purifycss/gulp-purifycss - Remove unused CSS in your styles
-* http://www.johnpapa.net/angular-and-gulp/ - Template caching and other cool shit with Gulp building
-
-### Scripts / Automation
-* https://github.com/AlDanial/cloc - Count Lines Of Code script
-
-## Startups and Related
-* http://fletcher.io/hackers-guide-to-fundraising/
+* jeet - CSS grid only, useful for minimal projects or portfolio pages 
+* [pills](http://arkpod.in/pills/)
 
 ## Style Guides
-These are style guides that I generally adhere to as best as I can. 
+#### These are style guides that I generally adhere to as best as I can. 
 * HTML / CSS  http://workmanship.io/#
 * Angular - https://github.com/johnpapa/angular-styleguide
 * JS - http://standardjs.com/rules.html
 
 ## Seed Templates
 
-### Hackathon Starter
-https://github.com/sahat/hackathon-starter
-
-#### Angular Auth & CRUD Seeds
-* https://github.com/mancioshell/NEMTAB
-* https://github.com/bluehazetech/angular-compass-seed
+* [Hackathon Starter](https://github.com/sahat/hackathon-starter)
+* [NEMTAB](https://github.com/mancioshell/NEMTAB)
+* [Angular-Compass-Seed](https://github.com/bluehazetech/angular-compass-seed)
 
 #### Solid ES6 node jspm seed template with testing and travis
-https://github.com/topheman/vanilla-es6-jspm
+* https://github.com/topheman/vanilla-es6-jspm
 
 ## Workflow and Dev Process Tutorials
-- Open Sublime from CLI - http://ashleynolan.co.uk/blog/launching-sublime-from-the-terminal
+* https://github.com/purifycss/grunt-purifycss / https://github.com/purifycss/gulp-purifycss - Remove unused CSS in your styles
+* http://www.johnpapa.net/angular-and-gulp/ - Template caching and other cool shit with Gulp building
+* https://github.com/AlDanial/cloc - Count Lines Of Code script
+* Open Sublime from CLI - http://ashleynolan.co.uk/blog/launching-sublime-from-the-terminal
 
 ## Yeoman generators
-### http://www.johnpapa.net/hot-towel-angular/
-John Papa’s style guide with a solid test suite and modular code, sits on Bootstrap instead of Angular Material
+* http://www.johnpapa.net/hot-towel-angular/
+* https://www.npmjs.com/package/generator-angm
+* https://github.com/newaeonweb/generator-angm#readme 
 
-hottowel is currently my favorite Angular / Express / Node seed. It doesn't setup a database, so you can use it as a starting point for any database you want, and it has extremely robust error handling, routing, and app structure setup without being overbearing or overly-configured when you're coding. You boot it up, and start coding. My only drawback with it is that it doesn't have Bootstrap, so you have to take a bit to configure that into it. 
 
-### https://github.com/newaeonweb/generator-angm#readme - Yeoman installer for Angular Material starting point (follows modular style for Angular as well)
-
-## Tutorials
+# Tutorials / Helpful Resources 
 ### Creating CRUD app with $resource
 http://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/
 requires this NPM module - https://www.npmjs.com/package/ng-resource
@@ -253,7 +183,7 @@ http://michalostruszka.pl/blog/2013/09/06/selective_http_errors_handling_in_angu
 http://checkman.io/blog/creating-a-javascript-library/
 — Bonus: A template for creating a modular, AMD compatible, JS Library - https://github.com/jeremyckahn/lib-tmpl
 
-### Creating a JavaScript Fraaaaaaamework
+### Creating a JavaScript Framework
 http://www.aptuz.com/blog/create-javascript-mvc-framework/
 This is not so much of a "Hey, create a framework and use it in production!" as it is a "Hey, code your own framework to get an idea of how other frameworks do things so that you can get a better feel for what's going on behind the scenes"
 
