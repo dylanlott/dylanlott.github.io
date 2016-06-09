@@ -108,8 +108,9 @@ http://app.prototypo.io/ - font creator app, pretty cool
 * HTML / CSS / JS Prettifier - Search for this and install it using Sublimes package manager. It's amazing. 
 * http://pleeease.io/play/ - Autoprefixer with additional tools but not in-IDE like AutoPrefix is
 
-Normalize:
-* [Normalize.css](http://necolas.github.io/normalize.css/) _(I like Normalize more than a hard reset for CSS.)_
+## CSS Frameworks / Sheets 
+
+* [Normalize.css](http://necolas.github.io/normalize.css/) (I like Normalize more than a hard reset for CSS.)
 * reset.css (I don't use this very often, see above) 
 * skeleton.css - responsive, ultra-lightweight CSS library - super kickass for small projects, not very powerful for more advanced stuff, though.
 * jeet - CSS grid only, useful for minimal projects or portfolio pages 
