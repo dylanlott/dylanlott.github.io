@@ -3,8 +3,6 @@ layout: post
 title: Design 101 for Developers
 ---
 
-Sources: 
-[Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
 
 Are you an engineer? Are you terrible at design? Follow this guide to get a real quick better sense of design. 
 
@@ -23,6 +21,7 @@ Stop trying to custom write your CSS. You'll tell me you're "an engineer, not a 
 
 In general, avoid at all costs the basic fonts. Just using a custom font will get you 80% there in most cases. 
 
+Just look at [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) and see how amazing that shit looks with a few background textures and some fonts. 
 
 ## 4. Screenshots are your friend
 
