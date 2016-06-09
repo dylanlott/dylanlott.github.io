@@ -13,13 +13,6 @@ So, without any further explanation, here it is - 2 years of curated web develop
 
 # The List 
 
-
-## 100 codepens:
-http://codepen.io/2014/popular/
-http://htmlinspiration.com/the-most-loved/
-https://onepagelove.com/
-http://csszengarden.com/
-
 ## Fonts
 http://www.google.com/fonts
 http://www.fontsquirrel.com
@@ -27,76 +20,76 @@ http://comicneue.com/
 http://app.prototypo.io/ - font creator app, pretty cool
 
 ## Icons
-http://www.flaticon.com
-http://www.iconarchive.com
-http://fontawesome.io/
-http://evil-icons.io/
-http://icons8.com/
-https://thenounproject.com
+* http://www.flaticon.com
+* http://www.iconarchive.com
+* http://fontawesome.io/
+* http://evil-icons.io/
+* http://icons8.com/
+* https://thenounproject.com
 
 ## Vectors and Stock Photos
-http://www.freepik.com/
-https://unsplash.com/
-http://www.pexels.com/
-http://nos.twnsnd.co/
-https://stocksnap.io/
+* http://www.freepik.com/
+* https://unsplash.com/
+* http://www.pexels.com/
+* http://nos.twnsnd.co/
+* https://stocksnap.io/ - this is my personal favorite. 
 
 ## CSS
-http://www.sketchingwithcss.com/samplechapter/cheatsheet.html#center - Best guide to centering with FlexBox I've yet found
-http://mikethedj4.github.io/Webkit-Scrollbar-Generator/ - Custom scrollbar CSS generator
+* http://www.sketchingwithcss.com/samplechapter/cheatsheet.html#center - Best guide to centering with FlexBox I've yet found
+* http://mikethedj4.github.io/Webkit-Scrollbar-Generator/ - Custom scrollbar CSS generator
 
 ## SVG's
-https://jakearchibald.github.io/svgomg/ - Amazing editor and compressor for SVGs
+* https://jakearchibald.github.io/svgomg/ - Amazing editor and compressor for SVGs
 
 ## Buttons
-http://btn.jonmongeau.com
-http://mrmrs.io/btns/ great looking buttons
-http://simplesharingbuttons.com/ - best way to make simple sharing buttons
+* http://btn.jonmongeau.com
+* http://mrmrs.io/btns/ great looking buttons
+* http://simplesharingbuttons.com/ - best way to make simple sharing buttons
 
 ## UI Kits
-http://bootswatch.com (based on bootstrap)
-http://bootsnipp.com/
-http://presentation.creative-tim.com/ - Freebie Bootstrap Kits
+* http://bootswatch.com (based on bootstrap)
+* http://bootsnipp.com/
+* http://presentation.creative-tim.com/ - Freebie Bootstrap Kits
 
 ## React Tools
-http://reapp.io/ui.html
-http://www.reactnative.com/
-https://github.com/webpack/react-starter - Webpack’s React Starter Template
+* http://reapp.io/ui.html
+* http://www.reactnative.com/
+* https://github.com/webpack/react-starter - Webpack’s React Starter Template
 
 ## React Tutorials / Articles
-http://survivejs.com/webpack_react/webpack_and_react/ - Good getting started guide
+* http://survivejs.com/webpack_react/webpack_and_react/ - Good getting started guide
 
 ## Visual Design Frameworks
-http://semantic-ui.com/ - Really solid visual design framework. Has more options than Bootstrap, but less community and platform support.
-https://material.angularjs.org/latest/  - Angular Material integration
-http://daemonite.github.io/material/ great material design starter point
-http://codepen.io/zavoloklom/pen/Gubja - Good material design bootstrap button theme, solid colors
+* http://semantic-ui.com/ - Really solid visual design framework. Has more options than Bootstrap, but less community and platform support.
+* https://material.angularjs.org/latest/  - Angular Material integration
+* http://daemonite.github.io/material/ great material design starter point
+* http://codepen.io/zavoloklom/pen/Gubja - Good material design bootstrap button theme, solid colors
 
-## Code Snippets
-http://codepen.io/hone/pen/jERzmd - Material Design Search Transition
-http://codepen.io/zavoloklom/pen/wtApI - Material Design Panels and
-http://codepen.io/BrianDGLS/pen/eNmZyN - Parallax background in 4 lines of code
-http://codepen.io/aleprieto/pen/nAmIy - stripes / dots in CSS
-http://codepen.io/mildrenben/pen/WvGEzm - email and sign up widget that looks great
-http://codepen.io/pixelchar/pen/rfuqK - best responsive table I've ever seen, separates into panels for mobile, in SCSS
-http://codepen.io/davidkpiano/pen/xwyVXO?editors=110 - amazing css only calendar
+## Code Snippets / Codepens 
+* http://codepen.io/hone/pen/jERzmd - Material Design Search Transition
+* http://codepen.io/zavoloklom/pen/wtApI - Material Design Panels and
+* http://codepen.io/BrianDGLS/pen/eNmZyN - Parallax background in 4 lines of code
+* http://codepen.io/aleprieto/pen/nAmIy - stripes / dots in CSS
+* http://codepen.io/mildrenben/pen/WvGEzm - email and sign up widget that looks great
+* http://codepen.io/pixelchar/pen/rfuqK - best responsive table I've ever seen, separates into panels for mobile, in SCSS
+* http://codepen.io/davidkpiano/pen/xwyVXO?editors=110 - amazing css only calendar
 
 ## Angular Directives
-http://mbenford.github.io/ngTagsInput/
-http://stackoverflow.com/questions/18006334/updating-time-ago-values-in-angularjs-and-momentjs TimeAgo directive in Angular that works REALLY well
-https://github.com/dwmkerr/angular-modal-service - best modal service I've yet found.
+* http://mbenford.github.io/ngTagsInput/
+* http://stackoverflow.com/questions/18006334/updating-time-ago-values-in-angularjs-and-momentjs TimeAgo directive in Angular that works REALLY well
+* https://github.com/dwmkerr/angular-modal-service - best modal service I've yet found.
 
 ## Angular Tips / Tricks
-https://scotch.io/quick-tips/pretty-urls-in-angularjs-removing-the-hashtag - Get rid of hashbangs in URL
-http://stackoverflow.com/questions/22102815/how-to-delete-sign-in-angular-ui-router-urls - More info on getting rid of hashbangs in URL
+* https://scotch.io/quick-tips/pretty-urls-in-angularjs-removing-the-hashtag - Get rid of hashbangs in URL
+* http://stackoverflow.com/questions/22102815/how-to-delete-sign-in-angular-ui-router-urls - More info on getting rid of hashbangs in URL
 
 jQuery UI (has datepicker)
-http://jqueryui.com
-Note that since the classes, etc., are all standard there's a lot of CSS out there already for the jQuery UI datpicker. [Here's one tutorial from Hongkiat](http://www.hongkiat.com/blog/jquery-ui-datepicker/).
+* http://jqueryui.com
+* _Note:_ Since the classes, etc., are all standard there's a lot of CSS out there already for the jQuery UI datpicker. [Here's one tutorial from Hongkiat](http://www.hongkiat.com/blog/jquery-ui-datepicker/).
 
 ## Desktop Apps in JS
-https://www.trueinteractions.com/tint2/docs/
-http://electron.atom.io/
+* https://www.trueinteractions.com/tint2/docs/ - 
+* http://electron.atom.io/
 
 ## JavaScript CDNs
 https://cdnjs.com/

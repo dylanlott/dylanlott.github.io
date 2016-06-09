@@ -22,18 +22,14 @@ The initial concept for WorldBuilder sparked in my head when I was browsing redd
 
 Upon further investigation, I discovered that there was really no specific tool for world building. Most people were just using Evernote or Google Drive to store their creations. Niche tools are some of my favorite because they very quickly garner a following if done correctly, and the communities built around them tend to be very involved and easy to garner feedback from. 
 
-## Initial Sketch Ups
-[Here's my initial mockups](http://imgur.com/a/ypTax) for the MVP. 
-
-## Style Sheet
-[Here's the style sheet]() that I created for this project. I liked the seafoam green / dark teal color combo because it allowed for a lot of flat green / blue combos that feel very "planet-ey" to me. 
+## Initial Sketch Ups and Style Tiles 
+[Here's the style sheet](https://www.behance.net/gallery/38158327/WorldBuilder-Mockups) that I created for this project. I liked the seafoam green / dark teal color combo because it allowed for a lot of flat green / blue combos that feel very "planet-ey" to me. 
 
 #### Resources Used: 
 * [Style Tile Template](http://www.sketchappsources.com/free-source/1772-style-tile-template-sketch-freebie-resource.html)
 * [Material Design UI Kit Boilerplate](http://www.sketchappsources.com/free-source/1661-material-design-ui-kit-boilerplate-sketch-freebie-resource.html)
 * [Google Material Design UI](http://www.sketchappsources.com/free-source/597-google-material-design-ui-sketch-app.html)
 * [Material Design Icons](http://www.sketchappsources.com/free-source/1692-350-free-icons-webalys-sketch-freebie-resource.html)
-* [Chart UI Kit](http://www.sketchappsources.com/free-source/1964-chart-ui-kit-sketch-freebie-resource.html)
 
 ### Feature List 
 From the mockups, we can put together our basic list of features and how we should roughly model our data in MongoDB. This is important because we need to setup our models and decide how we want our data to relate. 
@@ -59,59 +55,6 @@ The data for WorldBuilder is going to be _heavily_ relational. Because of this, 
 To be honest, I haven't yet chosen a database for this project yet, so we'll figure that out in a later point. This is a build thread, after all.
 
 For the MVP, we will only be focusing on the Worlds feature. However, it is handy for further down the road to know what our other features and data will look like, which is why I chose to mock them up now as well as decide the data structure as best I could.  
-
-So here goes:  
-
-* User --> Worlds
-One to Many 
-
-* Worlds --> Notes 
-One to Many (i.e. Each world will have notes with various info)
-
-* Worlds --> Objects
-One to Many 
-
-* Worlds --> Characters 
-One to Many
-
-* Worlds --> Events / Timelines 
-One to Many (Events data will be used to auto-populate a timeline feature)
-
-* Worlds --> Races / Peoples 
-One to Many 
-
-* Worlds --> Technology 
-One to Many 
-
-* Peoples --> Religions 
-One to Many 
-
-* Religions --> Objects 
-One to Many 
-
-* Religions --> Events 
-One to Many
-
-* Characters --> Events 
-One to Many 
-
-* Characters --> Worlds 
-One to One
-
-* Characters --> Religions
-One to One 
-
-* Characters --> Objects 
-One to Many 
-
-* Characters --> Characters 
-One to Many (i.e. friendship / affiliations)
-
-
-
-
-
-
 
 ## App Setup and Skeleton
 
