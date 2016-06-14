@@ -75,9 +75,9 @@ http://app.prototypo.io/ - font creator app, pretty cool
 * [https://codepen.io/andreasstorm/pen/ZGjNwZ](https://codepen.io/andreasstorm/pen/ZGjNwZ) - Hands down the best and easiest to use toggle switches for material design that I've come across
 
 ## Angular Directives
-* http://mbenford.github.io/ngTagsInput/
-* http://stackoverflow.com/questions/18006334/updating-time-ago-values-in-angularjs-and-momentjs TimeAgo directive in Angular that works REALLY well
-* https://github.com/dwmkerr/angular-modal-service - best modal service I've yet found.
+* [http://mbenford.github.io/ngTagsInput/](http://mbenford.github.io/ngTagsInput/)
+* [http://stackoverflow.com/questions/18006334/updating-time-ago-values-in-angularjs-and-momentjs](http://stackoverflow.com/questions/18006334/updating-time-ago-values-in-angularjs-and-momentjs) - TimeAgo directive in Angular that works REALLY well
+* [https://github.com/dwmkerr/angular-modal-service](https://github.com/dwmkerr/angular-modal-service) - best modal service I've yet found.
 
 ## Angular Tips / Tricks
 * https://scotch.io/quick-tips/pretty-urls-in-angularjs-removing-the-hashtag - Get rid of hashbangs in URL

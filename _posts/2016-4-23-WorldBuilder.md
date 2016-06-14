@@ -58,5 +58,28 @@ For the MVP, we will only be focusing on the Worlds feature. However, it is hand
 
 ## App Setup and Skeleton
 
+We're going to use the John Papa Hottowel generator to build up our app. 
+
+Then, we'll setup our `.env` files, add a `.gitignore`, and get the app ready for production. 
+
+## Deploy Our Skeleton App 
+
+#### Sources
+* [Express site with digital ocean and dokku](http://markrabey.com/2015/02/08/express-site-with-digital-ocean-and-dokku/)
+* [Deploy Node.js Apps on Dokku](http://matthewpalmer.net/blog/2014/02/19/how-to-deploy-node-js-apps-on-digitalocean-with-dokku/)
+* [mongo-dokku](https://github.com/dokku/dokku-mongo)
+* [dokku-node-mongo](https://gist.github.com/fizerkhan/029617fd75cdb167db7c)
+* [And here's a cool overview of Dokku from its creator.](http://progrium.com/blog/2013/06/19/dokku-the-smallest-paas-implementation-youve-ever-seen/)
+
+
+You might be asking - why deploy so early? 
+
+Well, for a few reasons. I like having the project deployed early on so that I have something 'tangible' to keep me more motivated while working on it. A sort of instant gratification, and then the ability to show others what I'm working on while it's still a work in progress. 
+
+
+## Dokku Deployment of Skeleton App
+
+
+
 
 
