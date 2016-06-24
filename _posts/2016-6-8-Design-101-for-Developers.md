@@ -18,6 +18,8 @@ Just do yourself a favor and double the space and see how it looks. It'll probab
 
 Stop trying to custom write your CSS. You'll tell me you're "an engineer, not a designer", but you won't use Bootstrap? Come on. 
 
+Don't like the way vanilla Bootstrap looks? Use Bootswatch. Or Semantic-UI. Or Angular-Material. They're all well-documented frameworks with tons of premade layouts that you can follow for your own project to get 80% there.  
+
 
 ## 3. A little type goes a long way. 
 

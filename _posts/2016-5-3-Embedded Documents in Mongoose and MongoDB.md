@@ -39,6 +39,13 @@ var Build = new Schema({
 
 And that should work for you!
 
+
+# But what if I want to use Populate? 
+
+`populate` is the method that Mongoose gives you to create relational data. It's powerful if you use it right, and it can give your data great depth.
+
+
+
 Sources: 
 [2]:http://stackoverflow.com/questions/14199529/mongoose-find-modify-save
 
