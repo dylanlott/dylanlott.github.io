@@ -18,12 +18,12 @@ This is a style guide for your code, for your design, and for your life as a dev
 
 This document will be a living and breathing guide to the style and philosophy that our shop runs on. That being said, things will change, be updated, added to, and sometimes removed. 
 
-### 1. [Philosophy](#philosophy) 
-### 2. [Concept and Project Scope](#concept) 
-### 3. [Design](#design)
-### 4. [Development](#development)
-### 5. [Deliverables](#deliverables)
-### 6. [Deployment](#deployment)
+## 1. [Philosophy](#philosophy) 
+## 2. [Concept and Project Scope](#concept) 
+## 3. [Design](#design)
+## 4. [Development](#development)
+## 5. [Deliverables](#deliverables)
+## 6. [Deployment](#deployment)
 
 # 1. Philosophy and Personality 
 
