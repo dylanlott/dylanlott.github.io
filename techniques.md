@@ -25,7 +25,8 @@ This document will be a living and breathing guide to the style and philosophy t
 5. [Deliverables](#deliverables)
 6. [Deployment](#deployment)
 
-# 1. Philosophy and Personality <a name="philosophy"></a>
+## <a name="philosophy"></a>
+# 1. Philosophy and Personality 
 
 ## Perfection and Minimalism  
 
@@ -62,7 +63,8 @@ in person rather than seeing _mockups_ of their business cards.
 
 
 
-## 2. Concept and Scope<a name="concept"></a>
+## <a name="concept"></a>
+## 2. Concept and Scope
 
 The quickest way to decrease quality is to increase scope. Your project's scope should be laser sharp and perfectly defined down to every user interaction. 
 The concept should be solid, and you should have numbers rather than opinions to back up _why_ you're creating something. 
@@ -80,16 +82,20 @@ Numbers rule, people lie.
 * 2.5 Use a business creation chart. 
 
 
-## 3. Design <a name="design"></a>
+## <a name="design"></a>
+## 3. Design 
 
 
-## 4. Development <a name="development"></a>
+## <a name="development"></a>
+## 4. Development 
 
 
-## 5. Deliverables <a name="deliverables"></a>
+## <a name="deliverables"></a>
+## 5. Deliverables 
 
 
-## 6. Deployment <a name="deployment"></a>
+## <a name="deployment"></a>
+## 6. Deployment 
 
 
 
