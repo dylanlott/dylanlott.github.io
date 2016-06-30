@@ -23,7 +23,7 @@ This document will be a living and breathing guide to the style and philosophy t
 6. Post-Project Conclusions 
 7. What We Learned
 
-# Philosophy 
+# 1. Philosophy 
 
 ## Perfection and minimalism  
 
@@ -32,11 +32,21 @@ we build here.
 
 From visual aesthetics, to the actual code powering our apps, we strive for the minimal but most effective approach.
 
-This means a few things to us in application: 
+This means a few things to us in application. 
 
-	1. Don't use generators. They start you off with code bloat, and you'll spend just as much time deleting unused code as it would have taken you to just bootstrap the application structure yourself.
-	
-	2. Simple and concise variable names 
-	
-	3. Structure is just as important as contents. Every app we produce follows a very specific folder architecture for both server and client code. 
 
+#### 1.1 Don't use generators. They start you off with code bloat, and you'll spend just as much time deleting unused code as it would have taken you to just bootstrap the application structure yourself.
+	
+#### 1.2 Simple and concise variable names 
+	
+#### 1.3 Structure is just as important as contents. Every app we produce follows a very specific folder architecture for both server and client code. 
+
+
+
+## 2. Concept and Scope
+
+The quickest way to decrease quality is to increase scope. Your project's scope should be laser sharp and perfectly defined down to every user interaction. 
+
+#### 2.1 Have a very well defined user flow and wireframe for every feature before you even think about development. 
+
+#### 2.2 An increase in scope should mean an increase (push back) in deadline and an increase in cost. 
