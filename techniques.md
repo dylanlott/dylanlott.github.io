@@ -26,6 +26,7 @@ This document will be a living and breathing guide to the style and philosophy t
 6. [Deployment](#deployment)
 
 ## <a name="philosophy"></a>
+
 # 1. Philosophy and Personality 
 
 ## Perfection and Minimalism  
@@ -64,6 +65,7 @@ in person rather than seeing _mockups_ of their business cards.
 
 
 ## <a name="concept"></a>
+
 ## 2. Concept and Scope
 
 The quickest way to decrease quality is to increase scope. Your project's scope should be laser sharp and perfectly defined down to every user interaction. 
@@ -83,18 +85,22 @@ Numbers rule, people lie.
 
 
 ## <a name="design"></a>
+
 ## 3. Design 
 
 
 ## <a name="development"></a>
+
 ## 4. Development 
 
 
 ## <a name="deliverables"></a>
+
 ## 5. Deliverables 
 
 
 ## <a name="deployment"></a>
+
 ## 6. Deployment 
 
 
