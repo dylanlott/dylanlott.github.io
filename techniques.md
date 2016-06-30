@@ -18,14 +18,14 @@ This is a style guide for your code, for your design, and for your life as a dev
 
 This document will be a living and breathing guide to the style and philosophy that our shop runs on. That being said, things will change, be updated, added to, and sometimes removed. 
 
-1. [Philosophy](#philosophy) 
+1. [Philosophy and Personality](#philosophy) 
 2. [Concept and Project Scope](#concept) 
 3. [Design](#design)
 4. [Development](#development)
 5. [Deliverables](#deliverables)
 6. [Deployment](#deployment)
 
-# 1. Philosophy and Personality 
+# 1. Philosophy and Personality <a name="philosophy"></a>
 
 ## Perfection and Minimalism  
 
@@ -62,7 +62,7 @@ in person rather than seeing _mockups_ of their business cards.
 
 
 
-## 2. Concept and Scope
+## 2. Concept and Scope<a name="concept"></a>
 
 The quickest way to decrease quality is to increase scope. Your project's scope should be laser sharp and perfectly defined down to every user interaction. 
 The concept should be solid, and you should have numbers rather than opinions to back up _why_ you're creating something. 
@@ -80,16 +80,16 @@ Numbers rule, people lie.
 * 2.5 Use a business creation chart. 
 
 
-## 3. Design 
+## 3. Design <a name="design"></a>
 
 
-## 4. Development 
+## 4. Development <a name="development"></a>
 
 
-## 5. Deliverables 
+## 5. Deliverables <a name="deliverables"></a>
 
 
-## 6. Deployment 
+## 6. Deployment <a name="deployment"></a>
 
 
 
