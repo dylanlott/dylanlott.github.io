@@ -11,6 +11,9 @@ other about what we thought Hivemind is, what we think works, what we think suck
 
 To us, opinionated design is the kind that sticks out, and we want to share those opinions of ours, because that's the point of the internet, right? 
 
+## What exactly _is_ this? 
+This is a style guide for your code, for your design, and for your life as a developer. It's a living, breathing, evergreen guide based on our opinions, experience, and how we do things here at Hivemind. 
+
 # Navigation / Table of contents 
 
 This document will be a living and breathing guide to the style and philosophy that our shop runs on. That being said, things will change, be updated, added to, and sometimes removed. 
