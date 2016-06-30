@@ -37,28 +37,28 @@ From visual aesthetics, to the actual code powering our apps, we strive for the 
 This means a few things to us in application. 
 
 
-* 1.1 Don't use generators. 
+* 1.1 **Don't use generators**
 They start you off with code bloat, and you'll spend just as much time deleting unused code as it would have taken you to just bootstrap the application structure yourself.
 	
-* 1.2 Simple and concise variable names 
+* 1.2 **Simple and concise variable names**
 	
-* 1.3 Structure is just as important as contents. 
+* 1.3 **Structure is just as important as contents**
 Every app we produce follows a very specific folder architecture for both server and client code. 
 
-* 1.4 You are not your online profile. 
+* 1.4 **You are not your online profile**
 Your Facebook profile isn't going to outlive you. Your creation and progress as a human is what will outlast you. If you want to live forever, build a legacy first. 
 
-* 1.6 Your time is too valuable to be dependent on digital notifications.
+* 1.6 **Your time is too valuable to be dependent on digital notifications**
 Your time is your most valuable asset. Your notifications should be kept to a minimum. Focus on your work and creating something that's meaningful. 
 
-* 1.7 A screen will not be the first and last thing you see.
+* 1.7 **A screen will not be the first and last thing you see**
 Technology is a way to enhance the experiences you have as a human on this planet, not hinder them. 
 
-* 1.8 Tangible will always take precedence over digital.
+* 1.8 **Tangible will always take precedence over digital**
 In application, this means your clients will always prefer getting a physical report to receiving just an email. They'll prefer seeing their business cards 
 in person rather than seeing _mockups_ of their business cards. 
 
-* 1.9 People don't know what they want until they see it. 
+* 1.9 **People don't know what they want until they see it**
 
 
 
