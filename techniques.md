@@ -35,6 +35,8 @@ From visual aesthetics, to the actual code powering our apps, we strive for the 
 This means a few things to us in application: 
 
 	1. Don't use generators. They start you off with code bloat, and you'll spend just as much time deleting unused code as it would have taken you to just bootstrap the application structure yourself.
+	
 	2. Simple and concise variable names 
+	
 	3. Structure is just as important as contents. Every app we produce follows a very specific folder architecture for both server and client code. 
 
