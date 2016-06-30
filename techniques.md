@@ -20,13 +20,12 @@ This document will be a living and breathing guide to the style and philosophy t
 
 1. Philosophy 
 2. Concept and Project Scope 
-3. Meeting of the Minds 
+3. Design 
 4. Development
 5. Deliverables 
-6. Post-Project Conclusions 
-7. What We Learned
+6. Deployment 
 
-# 1. Philosophy 
+# 1. Philosophy and Personality 
 
 ## Perfection and Minimalism  
 
@@ -38,18 +37,48 @@ From visual aesthetics, to the actual code powering our apps, we strive for the 
 This means a few things to us in application. 
 
 
-* 1.1 Don't use generators. They start you off with code bloat, and you'll spend just as much time deleting unused code as it would have taken you to just bootstrap the application structure yourself.
+* 1.1 Don't use generators. 
+They start you off with code bloat, and you'll spend just as much time deleting unused code as it would have taken you to just bootstrap the application structure yourself.
 	
 * 1.2 Simple and concise variable names 
 	
-* 1.3 Structure is just as important as contents. Every app we produce follows a very specific folder architecture for both server and client code. 
+* 1.3 Structure is just as important as contents. 
+Every app we produce follows a very specific folder architecture for both server and client code. 
+
+* 1.4 You are not your online profile. 
+Your Facebook profile isn't going to outlive you. Your creation and progress as a human is what will outlast you. If you want to live forever, build a legacy first. 
+
+* 1.6 Your time is too valuable to be dependent on digital notifications.
+Your time is your most valuable asset. Your notifications should be kept to a minimum. Focus on your work and creating something that's meaningful. 
+
+* 1.7 A screen will not be the first and last thing you see.
+Technology is a way to enhance the experiences you have as a human on this planet, not hinder them. 
+
+* 1.8 Tangible will always take precedence over digital.
+In application, this means your clients will always prefer getting a physical report to receiving just an email. They'll prefer seeing their business cards 
+in person rather than seeing _mockups_ of their business cards. 
+
+* 1.9 People don't know what they want until they see it. 
 
 
 
 ## 2. Concept and Scope
 
 The quickest way to decrease quality is to increase scope. Your project's scope should be laser sharp and perfectly defined down to every user interaction. 
+The concept should be solid, and you should have numbers rather than opinions to back up _why_ you're creating something. 
+
+Numbers rule, people lie. 
 
 * 2.1 Have a very well defined user flow and wireframe for every feature before you even think about development. 
 
 * 2.2 An increase in scope should mean an increase (push back) in deadline and an increase in cost. 
+
+* 2.3 Every concept should be thoroughly vetted and examined by all persons. 
+
+* 2.4 Use a web app template. 
+
+* 2.5 Use a business creation chart. 
+
+
+
+
