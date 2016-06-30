@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design Techniques and Workflow
+title: Style Guide
 ---
 
 # The Hivemind Manifesto
@@ -25,7 +25,7 @@ This document will be a living and breathing guide to the style and philosophy t
 
 # 1. Philosophy 
 
-## Perfection and minimalism  
+## Perfection and Minimalism  
 
 To us, and to me personally, minimal approaches work out best, and we try to extend this philosophy into everything
 we build here. 
