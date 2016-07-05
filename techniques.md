@@ -61,24 +61,30 @@ in person rather than seeing _mockups_ of their business cards.
 
 * **1.9 People don't know what they want until they see it**
 
+* **1.10 Your time is the most valuable asset you have.**
 
+* **1.11 Be careful what you get good at.**
+
+* **1.12 You can either be good, get good, or give up. Choose one.**
 
 ## <a name="concept"></a>
 
 ## 2. Concept and Scope
 
-The quickest way to decrease quality is to increase scope. Your project's scope should be laser sharp and perfectly defined down to every user interaction. 
+* **2.1 The quickest way to decrease quality is to increase scope.** 
+
+Your project's scope should be laser sharp and perfectly defined down to every user interaction. 
 The concept should be solid, and you should have numbers rather than opinions to back up _why_ you're creating something. 
 
-Numbers rule, people lie. 
+* **2.2 Numbers rule, people lie.**
 
-* 2.1 Have a very well defined user flow and wireframe for every feature before you even think about development. 
+* **2.1 Have a very well defined user flow and wireframe for every feature before you even think about development.**
 
-* 2.2 An increase in scope should mean an increase (push back) in deadline and an increase in cost. 
+* **2.2 An increase in scope should mean an increase (push back) in deadline and an increase in cost.**
 
-* 2.3 Every concept should be thoroughly vetted and examined by all persons. 
+* **2.3 Every concept should be thoroughly vetted and examined by all persons.**
 
-* 2.4 Use a web app template and expand on it. 	 
+* **2.4 Use a web app template and expand on it.**
 
 
 ## <a name="design"></a>
@@ -97,11 +103,7 @@ Find inspiration everywhere. Surround yourself with different textures, media, e
 
 You are not your computer. Your computer isn't you. You are a user, using the tools you have to create your vision and concepts.
 
-Your time is the most valuable asset you have.
 
-Be careful what you get good at.
-
-You can either be good, get good, or give up. Choose one.
 
 Use semantic filenames.
 
