@@ -78,9 +78,7 @@ Numbers rule, people lie.
 
 * 2.3 Every concept should be thoroughly vetted and examined by all persons. 
 
-* 2.4 Use a web app template. 
-
-* 2.5 Use a business creation chart. 
+* 2.4 Use a web app template and expand on it. 	 
 
 
 ## <a name="design"></a>
@@ -119,7 +117,7 @@ Use docker.
 
 Get in the habit of using a continuous integration / continuous deployment setup.
 
-Write documentation before you start, during, and after your project.
+Write documentation before, during, and after your project.
 
 Write a lot more documentation. a new person should be able to come in to your project, clone the code base, fix an issue on the server, or fix a bug in your code just because of how good your documentation is.
 
