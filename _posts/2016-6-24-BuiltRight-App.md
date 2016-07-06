@@ -27,6 +27,16 @@ and a lot more.
 
 Stay tuned, there will definitely be more to come! 
 
+# Update - July 5th 2016 
+
+Today, I deployed the application at [www.builtrightapp.com](BuiltRightApp.com) and it's running swimmingly. 
+
+### Stack Info 
+
+I used Node and MongoDB for the data layer, PM2 to handle the server running and clustering, Express to handle the routing and controllers, and Angular for the front end.
+
+
+
 - Dylan
 
 
