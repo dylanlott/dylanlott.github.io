@@ -33,8 +33,16 @@ Today, I deployed the application at [www.builtrightapp.com](BuiltRightApp.com) 
 
 ### Stack Info 
 
-I used Node and MongoDB for the data layer, PM2 to handle the server running and clustering, Express to handle the routing and controllers, and Angular for the front end.
+I used Node and MongoDB for the data layer, PM2 to handle the server running and clustering, Express to handle the routing and controllers, and Angular / Angular-Material for the front end. This is a fairly standard MEAN stack setup, nothing fancy here. 
 
+### Docker Deployment
+
+I am eventually planning on switching this over to a Docker deployment for ease of use, since I intend to keep this project as a long term application. 
+
+
+# Angular Material
+
+This is my first project with Angular Material and I'm really enjoying how it feels for front end. It's a really solid framework, but it does require a slightly different approach and mindset than Bootstrap does. 
 
 
 - Dylan
