@@ -120,7 +120,7 @@ Use semantic filenames.
 
 Get your entire planned stack for the app deployed and working together nicely. This will help you with rollout and you won't be scrambling last minute to get your app deployed on a deadline and will let you focus on features for the tight deadlines rather than dev-ops. 
 
-* **4.2 Use docker**
+* **4.2 Use Docker**
 
 This ties in with the above point. Docker is killer for deployment, and will help you create a scalable architecture for your apps. Use it. 
 
@@ -132,13 +132,23 @@ Write a lot more documentation. a new person should be able to come in to your p
 
 * **4.5 Create an in house style guide**
 
+You should have a defined set of styles in house for variable and function naming conventions, semi-colon use, tabs vs spaces, etc... A good reference would be the NASA Code Style Guide. They have very defined conventions for every aspect of their code. 
+
 * **4.6 Run a linter**
 
+If you're using an IDE, it already will have this, but for Sublime or Atom, you'll have to add this in. You can also add it to your build process if you're using Gulp or Grunt. Whatever way you choose, you should have one. 
+
 * **4.7 Use a build system, and constantly improve it**
+
+Tying in to the previous point, you most definitely _should_ be using a build system. It'll speed up your development time and make your troubleshooting process. Waste less time on the obvious bugs and spend your time debugging bigger issues. 
 
 * **4.8 Maintain a blog**
 
 * **4.9 Use semantic function names**
+
+This ties in to your company style guide. You should have a defined convention (camel case vs snake case vs whatever) for styling and naming your functions and variables. 
+
+Ideally, you should also have a style guide for different types of files. For example, if you're using Angular, you should have a defined style guide for services, controllers, directives, and templates. 
 
 * **4.10 Comments should read why, not what**
 
@@ -156,7 +166,4 @@ Don't design around the development. You should have very clear wire frames for 
 ## <a name="deployment"></a>
 
 ## 6. Deployment 
-
-
-
 
