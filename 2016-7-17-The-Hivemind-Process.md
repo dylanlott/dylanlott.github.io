@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Hivemind Process
+title: The Hivemind Process
 --- 
-
-# The Hivemind Process 
 
 #### Created on July 17, 2016
 
