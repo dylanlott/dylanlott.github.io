@@ -118,15 +118,11 @@ Check out our [web app tracker.](https://www.evernote.com/l/AOpJV1doW0dAjoKex5YN
 
 
 	DO: Use a project tracker. 
-	
 	DO: Use a burndown chart or tracker. [Asana](www.asana.com) has this feature for projects for free.
-
 	DON'T: Scribble down a list of features. 
 
-	--------------------------------------------------------
 
 	DO: Set specific use cases and stories for each feature. 
-
 	DON'T: Fall victim to scope creep or allow the client to request additional features. 
 
 	--------------------------------------------------------
@@ -137,7 +133,7 @@ Check out our [web app tracker.](https://www.evernote.com/l/AOpJV1doW0dAjoKex5YN
 
 	--------------------------------------------------------
 
-	
+
 	
 - [ ] Determine deadlines for project
 
