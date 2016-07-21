@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Process
+title: The Hivemind Process
 --- 
 
 #### Created on July 17, 2016
@@ -36,13 +36,13 @@ We use the following folder configuration and project organization. We set these
 - [ ] Set up physical calendar with deadlines and goal dates marked clearly 
 - [ ] Print out project tracker (https://www.evernote.com/l/AOpJV1doW0dAjoKex5YN1qLLL6H0LGOdO6M)
 - [ ] Design Iterations
-- [ ] Begin turning features into more specific use cases and stories. 
+- [ ] Begin turning features into more specific use cases and stories
 - [ ] Wireframing and prototyping starts 
 - [ ] Begin client iteration process on wireframes
 - [ ] Create high resolution mockups, interactive mockups of each feature and use case
 - [ ] A/B test mockups with potential clients and customers 
 - [ ] Refine features and use cases 
-- [ ] Send mockups to client for approval and final write off.
+- [ ] Send mockups to client for approval and final write off
 
 # Development and Coding 
 Be very, very, cautious before entering the development stage. Changes here take twice the effort and three times as long. The goal with the development phase is to get to `push to deploy` status with the project as early as possible to make iteration and testing faster and easier. 
@@ -61,14 +61,15 @@ Be very, very, cautious before entering the development stage. Changes here take
 - [ ] Create slack channels for the project
 
 ## Design Phase
+- [ ] Create base stylesheet using Sketch exports or similar tactic
 - [ ] Create base index template
-- [ ] Create base stylesheet
+- [ ] Create base template for each main view
 - [ ] Set base colors according to style guide
-- [ ] Create living style guide page
-- [ ] Layout all major pages and features with mock data and mock JSON files.
+- [ ] Create living style guide page for app (admin access only)
+- [ ] Layout all major pages and features with mock data and mock JSON files
 
 ## Development Phase
 - [ ] Maintain a bug tracking sheet
-- [ ] Track progress
-- [ ] Daily standups / daily communication 
+- [ ] Track progress towards end goals
+- [ ] Daily standups / daily communication
 
