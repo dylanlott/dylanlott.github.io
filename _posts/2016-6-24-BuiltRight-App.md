@@ -45,3 +45,5 @@ I am eventually planning on switching this over to a Docker deployment for ease 
 This is my first project with Angular Material and I'm really enjoying how it feels for front end. It's a really solid framework, but it does require a slightly different approach and mindset than Bootstrap does. 
 I used the `angm` generator from Yeoman, and I'm not sure if I'd do that again, but I have created a seed for the angular material template that incorporates the John Papa Angular 1 style guide. I will put that up on git at some point, since I think it's a better starting point that the `angm` generator leaves you at. 
 
+
+# Update - July 21, 2016
