@@ -31,7 +31,7 @@ We use the following folder configuration and project organization. We set these
 06-Conclusion
 ````
 
-- [ ] Create Trello or Asana board 
+- [ ] Create Trello or Asana board
 - [ ] Invite client into project management tool 
 - [ ] Set up physical calendar with deadlines and goal dates marked clearly 
 - [ ] Print out project tracker (https://www.evernote.com/l/AOpJV1doW0dAjoKex5YN1qLLL6H0LGOdO6M)
@@ -72,4 +72,8 @@ Be very, very, cautious before entering the development stage. Changes here take
 - [ ] Maintain a bug tracking sheet
 - [ ] Track progress towards end goals
 - [ ] Daily standups / daily communication
+
+# Following Our Style Guide 
+
+We dive into each of these items and more in our style guide. 
 
