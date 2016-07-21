@@ -128,29 +128,27 @@ Check out our [web app tracker.](https://www.evernote.com/l/AOpJV1doW0dAjoKex5YN
 	DO: Set specific use cases and stories for each feature. 
 	DON'T: Fall victim to scope creep or allow the client to request additional features. 
 ```
-	--------------------------------------------------------
 
 	DO: Have a mockup for each feature. 
 
 	DON'T: On-the-fly develop a feature. 
 
-	--------------------------------------------------------
 
-
-	
 - [ ] Determine deadlines for project
+
 
 ```
 	DO: `Project Deployed and Launched by Nov. 30th`
 
 	DON'T: `Due in November`
 ```
-	--------------------------------------------------------
+
 ```
 	DO: Have milestones and goals for each step and feature of the project. 
 
 	DON'T: Set a single deadline and gauge progress based on that. 
 ```
+
 Your projects require constant feedback and tuning. You'll need to adjust milestones and deadlines based on progress, and with only a single deadline you really won't have any metric of your overall progress towards a goal. 
 
 How do you eat an elephant? One bite at a time.
