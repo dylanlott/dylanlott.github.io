@@ -97,10 +97,12 @@ Test everything, and use numbers to dictate decisions wherever feasible.
 Don't even think about development until you have every feature and part of the app designed and wireframed. 
 You should have a mockup with interaction details and a user story / epic for each feature before you even touch the command line or your text editor. 
 
+```
 	DO: Use Sketch to mockup sites and export CSS faster
 	DO: Use InVision or a similar product to create interactive mockups if you feel they're necessary. 
 
 	DON'T: Rely on "in your head" visions of what the app will look like. 
+```
 
 * **2.2 An increase in scope should mean an increase (push back) in deadline and an increase in cost.**
 
@@ -116,15 +118,16 @@ Check out our [web app tracker.](https://www.evernote.com/l/AOpJV1doW0dAjoKex5YN
 
 - [ ] Figure out project scope and features 
 
-
+```
 	DO: Use a project tracker. 
 	DO: Use a burndown chart or tracker. [Asana](www.asana.com) has this feature for projects for free.
 	DON'T: Scribble down a list of features. 
+```
 
-
+```
 	DO: Set specific use cases and stories for each feature. 
 	DON'T: Fall victim to scope creep or allow the client to request additional features. 
-
+```
 	--------------------------------------------------------
 
 	DO: Have a mockup for each feature. 
@@ -137,16 +140,17 @@ Check out our [web app tracker.](https://www.evernote.com/l/AOpJV1doW0dAjoKex5YN
 	
 - [ ] Determine deadlines for project
 
+```
 	DO: `Project Deployed and Launched by Nov. 30th`
 
 	DON'T: `Due in November`
-
+```
 	--------------------------------------------------------
-
+```
 	DO: Have milestones and goals for each step and feature of the project. 
 
 	DON'T: Set a single deadline and gauge progress based on that. 
-
+```
 Your projects require constant feedback and tuning. You'll need to adjust milestones and deadlines based on progress, and with only a single deadline you really won't have any metric of your overall progress towards a goal. 
 
 How do you eat an elephant? One bite at a time.
