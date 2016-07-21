@@ -120,19 +120,24 @@ Check out our [web app tracker.](https://www.evernote.com/l/AOpJV1doW0dAjoKex5YN
 
 ```
 	DO: Use a project tracker. 
-	DO: Use a burndown chart or tracker. [Asana](www.asana.com) has this feature for projects for free.
+	DO: Use a burndown chart or tracker. 
 	DON'T: Scribble down a list of features. 
 ```
 
+[Asana](www.asana.com) has burndown charts and project separation for free.
+
+
 ```
 	DO: Set specific use cases and stories for each feature. 
-	DON'T: Fall victim to scope creep or allow the client to request additional features. 
+	DON'T: Fall victim to scope creep.
 ```
 
-	DO: Have a mockup for each feature. 
+Don't allow the client to add features or request additional functionality with charging them both time and money for it. 
 
+```
+	DO: Have a mockup for each feature.
 	DON'T: On-the-fly develop a feature. 
-
+```
 
 - [ ] Determine deadlines for project
 
