@@ -218,7 +218,7 @@ If you're using an IDE, it already will have this, but for Sublime or Atom, you'
 
 * **4.7 Use a build system, and constantly improve it**
 
-Tying in to the previous point, you most definitely _should_ be using a build system. It'll speed up your development time and make your troubleshooting process. Waste less time on the obvious bugs and spend your time debugging bigger issues. 
+Tying in to the previous point, you most definitely _should_ be using a build system. It'll speed up your development time and make your troubleshooting process. Waste less time on the obvious bugs and spend your time debugging bigger issues.
 
 * **4.8 Maintain a blog**
 
@@ -252,6 +252,8 @@ Don't design around the development. You should have very clear wire frames for 
 
 * **5.5 Include a follow up contract for maintenance and feature requests as part of the deliverables. **
 
+* **5.6 
+
 ## <a name="deployment"></a>
 
 ## 6. Deployment 
@@ -260,7 +262,7 @@ Don't design around the development. You should have very clear wire frames for 
 
 * **6.2 Setup SSL / TSL Certificates** 
 
-* **6.3 Use HTTP/2 if possible** 
+* **6.3 Use HTTP/2 if possible**
 
 * **6.4 Setup multiple users on your server instead of using `root` for everything** 
 
@@ -269,3 +271,10 @@ Don't design around the development. You should have very clear wire frames for 
 * **6.6 Setup service workers to load data in the background and do other performance-oriented tasks**
 
 * **6.7 Serve static files with NGINX** 
+
+* **6.8 SSH over FTP.** 
+
+* ** 6.9 Setup Two Factor Authentication with all possible services.**
+
+
+
