@@ -8,17 +8,20 @@ I struggled for a long time to find an easy solution to deployment. It doesn't t
 I searched for a while, and it felt like there was something I was missing when it came to deployments.
 
 # Enter Git Webhooks
+
 My boss one day introduced me to the wonderful world of git webhooks. They're easy enough to setup, and make pushing your code a breeze.
 
 Yes, you're still going to have to remote access your droplet from time to time. But pushing and deploying your code just got a _lot easier_.
 
 # What You'll Need
+
 - A VPS (I'm using a DigitalOcean droplet)
 - A git repo and github account (You really should have one of these already)
 
 I set this all up on a fresh droplet, but you don't have to. You will, however, have to modify some of your directories if you're not using a fresh install.
 
 # Setup
+
 First, you need to remote into your VPS
 
 ```bash
@@ -36,7 +39,7 @@ git init --bare
 
 The `--bare` tag will initialize a repo with the correct folders and files you'll need, namely the `hooks` directory.
 
- Git repos have `hooks` that allow you to trigger events based on certain git actions. When you initialize a repo, the `hooks` folder will have some sample hooks that you can view.
+Git repos have `hooks` that allow you to trigger events based on certain git actions. When you initialize a repo, the `hooks` folder will have some sample hooks that you can view.
 
 `vim post-receive` to create a new post-receive hooks file.
 
@@ -44,7 +47,7 @@ Enter `insert` mode by hitting `i` and then type
 
 ```bash
 #!/bin/sh
-git --work-tree=/var/www/yourapp --git-dir/var/repo/site.git checkout -f  
+git --work-tree=/var/www/yourapp --git-dir/var/repo/site.git checkout -f
 ```
 
 Exit insert mode by mashing `escape` and type `ZZ` (that's Shift + Z + Z) and that will save your vim file and exit.
@@ -98,7 +101,7 @@ You should see some logs that look pretty similar to when you push up to a norma
 
 ```
 git push production master
-root@104.131.98.215's password:
+<user>@<your-ip-or-domain>'s password:
 Counting objects: 768, done.
 Delta compression using up to 8 threads.
 Compressing objects: 100% (332/332), done.
@@ -109,6 +112,7 @@ To ssh://<user>@<your-domain-name.com>/var/repo/appName.git
 ```
 
 # Root User
+
 If you're using `root` user, you should consider setting up a `deploy` user.
 
 To setup a `deploy` user, you'll need to be logged in as `root` and then
