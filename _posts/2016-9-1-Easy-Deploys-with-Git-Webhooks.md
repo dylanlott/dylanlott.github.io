@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BuiltRight
+title: Easy Deploys with Git Hooks
 ---
 
 I struggled for a long time to find an easy solution to deployment. It doesn't take long to get sick of remote accessing your server, navigating to your project directory, doing a `git pull` and then restarting your server just to push out a new update.
@@ -145,4 +145,4 @@ You can learn more about git hooks [here](http://githooks.com/) but the tl;dr is
 
 # Next Level Shit
 
-Feeling brave? Try booting up a `testing` repo using the same flow we just went over to add an intermediate stage between development and production, and then setup an NGINX server to proxy that folder to a subdomain called `testing` or `beta`. 
+Feeling brave? Try booting up a `testing` repo using the same flow we just went over to add an intermediate stage between development and production, and then setup an NGINX server to proxy that folder to a subdomain called `testing` or `beta`.
