@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Software for Startups
 ---
 
@@ -51,7 +51,7 @@ $ ssh root@<youridaddr>
 $ docker run -it <imageName>
 ```
 
-`-p` flag binds our Docker port to 8080\.
+`-p` flag binds our Docker port to 8080.
 
 Navigate your browswer to
 
