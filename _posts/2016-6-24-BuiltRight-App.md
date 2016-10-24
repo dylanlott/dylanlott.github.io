@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BuiltRight
+title: BuiltRight - A project car build tracker.
 ---
 
 I originally wanted to build a simple app for car owners and enthusiasts to track their builds and see how much money they spent on them, as well as track and share exactly what parts went into their cars.
@@ -26,7 +26,9 @@ Stay tuned, there will definitely be more to come!
 
 # Update - July 5th 2016
 
-Today, I deployed the application at <www.builtrightapp.com> and it's running swimmingly.
+Today, I deployed the application at
+
+<www.builtrightapp.com> and it's running swimmingly.</www.builtrightapp.com>
 
 ## Stack Info
 
