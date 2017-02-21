@@ -3,8 +3,6 @@ layout: post
 title: Create A Development Server with Nginx
 ---
 
-# Create A Development Server With Nginx
-
 There are a lot of cases where subdomains can come in handy. One of the most frequent use cases for a subdomain is a development server on the same domain as your default server. In this tutorial, I'll run you through how to setup a subdomain and handle that subdomain with Nginx on your server.
 
 `Note: Gray labels with a $ prefix are bash commands`
