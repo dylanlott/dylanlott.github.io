@@ -3,13 +3,13 @@ layout: post
 title: Dockerize A Static App
 ---
 
-# Setup barebones static app
+## Setup barebones static app
 
 You should have your app's production build boil down to a single folder.
 
 I usually point it all to `./build`
 
-# Create your apps Dockerfile
+## Create your apps Dockerfile
 
 Create a file named `Dockerfile` in the root of your app directory.
 
@@ -35,7 +35,7 @@ But for right now, we're letting it do what NGINX does best - serve static asset
 
 Now, let's continue on. Next, you need to...
 
-# Build your docker file
+## Build your docker file
 
 Before you can run your docker container, you need to build it. This might take a second, depending on your internet connection.
 
@@ -45,7 +45,7 @@ Note: You can name `your-app` whatever you want to, but keep it semantic for con
 
 Once this is done running, you should see `Successfully built <container_id>`
 
-# Start the container in the background
+## Start the container in the background
 
 You're doing two important things here.
 
