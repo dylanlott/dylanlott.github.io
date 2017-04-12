@@ -112,4 +112,4 @@ I don't want to get too advanced in this tutorial, but I want to cover how you c
 
 There's a lot you can do with Flightplan, and I've really come to like how simple of an approach it is.
 
-I suggest checking out the docs here and reading more about it to see what else it can do.
+I suggest checking out the docs [here](https://github.com/pstadler/flightplan) and reading more about it to see what else it can do.
