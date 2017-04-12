@@ -258,7 +258,7 @@ Don't design around the development. You should have very clear wire frames for 
 
 ## 6. Deployment 
 
-* **6.1 Use CloudFlare** 
+* **6.1 Use LetsEncrypt** 
 
 * **6.2 Setup SSL / TSL Certificates** 
 

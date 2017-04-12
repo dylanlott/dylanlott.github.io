@@ -2,7 +2,7 @@
 
 Hi there. This is the git repo for my personal blog. I used Jekyll and Hyde to create this. It was a pretty quick process. 
 
-I'm the owner of [Hivemind Apps](www.hivemindapps.com) and I work with some really talented people at [Zaniac](www.zaniaclearning.com) 
+I'm the owner of [Hivemind Apps](www.hivemindapps.com) and I work with some really talented people at [Storj.io](https://www.storj.io).
 
 If you have any questions, feel free to hit me up at `lott.dylan@gmail.com` or on [Instagram](www.instagram.com/dylanxedge)
 

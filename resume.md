@@ -25,6 +25,7 @@ title: Resume
 #### Storj.io
 - Vue and React Front End Development
 - Node / Mongo / Express backend development
+- Docker & Jenkins 
 
 # Skills and Certificates 
 
@@ -40,7 +41,7 @@ title: Resume
 - Python 
 - Django
 - PostgreSQL 
-- Docker 
+- Docker / Docker-Compose 
 - SSH
 
 #### Certificates 
@@ -49,3 +50,5 @@ title: Resume
 - CompTIA A+ Computer Networking Certified 
 
 # Contact Information
+(C) 435.553.9460
+(E) lott.dylan@gmail.com
