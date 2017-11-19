@@ -1,0 +1,61 @@
+---
+layout: post
+title: Using Rancher in Production
+---
+
+Let's be honest. Devops is hard. Security, certificates, containers, firewalls, DNS, updates - You know the story. It's a daily chore to have anything deployed, even trivially small applications. I tried a lot of different approaches. Scripted deploys using Flightplan, homemade docker-compose scripts to automatically update and restart, Git hooks, etc... But I never really found anything that made it easy to deploy an application and roll out updates in a reliable, testable manner.
+
+Enter Rancher - at least part of the answer to this problem.
+
+## What is Rancher?
+
+Rancher is a free and open source container orchestration and management platform. I found Rancher last year when I started getting more into Docker and now it's what I reach for first when setting up new projects. It's quick to setup, easy to understand, and does just enough magic behind the scenes to make it easy to use without taking away from the power of containers.
+
+I'll walk through setting up a Rancher instance and connecting it to DigitalOcean for automatic host creation and deployment.
+
+## Setup Rancher
+
+I prefer using a fresh DigitalOcean server, but if you don't want to, you can use an existing vps.
+
+To start up Rancher, pull down the latest image
+
+`docker pull rancher/server:latest`
+
+From there, you can run an instance of Rancher.
+
+`docker run -p 8080:8080 -d rancher/server`
+
+This will startup your Rancher instance. Seriously, it's that easy.
+
+Navigate your browser to your VPS - `<your.vps.ip.address>:8080` and you should see the Rancher app loaded up.
+
+## Log in with Rancher using GitHub
+
+You'll want to authenticate with Rancher using GitHub. Click the Authenticate with GitHub button, and then give Rancher access to your GitHub, fill out the app form for GitHub, and then authenticate and login.
+
+You'll need to enter the callback URL, a name for the application, and the host of the Rancher application.
+
+Once you have this filled out and you've authenticated with GitHub, then head over to DigitalOcean.
+
+## Create a DigitalOcean API Token
+
+Select API in the DO dashboard, and then click 'Access Tokens'. You'll be brought to a screen where you can generate a new token and name it. You'll only get to see the token this one time, if you need the token again, you'll have to regenerate that token.
+
+Create the token, then copy it, and head back over to Rancher.
+
+## Create a Host on Rancher
+
+Select Hosts from the menu, and then click Add a Host.
+
+Select DigitalOcean at the top, and then paste that API token into the form below.
+
+Name the host and click Create and it should spin up a host for you that Rancher has full access and control to.
+
+## Create your first stack
+
+Once the host is up and running, you can check it out in Rancher in the Stacks page.
+
+To create our own stack, click on "Create" and let's add a new container.
+
+
+
