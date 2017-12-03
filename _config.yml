@@ -2,21 +2,21 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 #permalink:           pretty
-permalink: /blog/:title/
+permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 encoding: utf-8
 
 # Setup
-title:               The Hivemind
+title:               My Website
 #tagline:             'foo's website
-description:         Crypto, distributed systems, side projects, cars, beards, and coffee. 
-#url: https://dylanlott.github.io
-#baseurl: ""
-#urlimg: https://lanyon-plus.sbamin.com/images/
+description:         Foo's blog...
+url: https://lanyon-plus.sbamin.com
+baseurl: ""
+urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
-url: https://dylanlott.github.io/
-baseurl: "/"
-urlimg: https://dylanlott.github.io
+#url: https://dyndna.github.io/lanyon-plus
+#baseurl: "/lanyon-plus"
+#urlimg: https://dyndna.github.io/lanyon-plus/images/
 markdown: kramdown
 kramdown:
   math_engine: mathjax
@@ -56,15 +56,15 @@ author:
 
 # Owner/author information
 owner:
-  name:           Dylan Lott
+  name:           Foo Boo
   avatar:         foo.png
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        dylanlott
+  twitter:        abcd
   facebook:       
-  github:         dylanlott
+  github:         xyz123abc
   stackexchange:  
   linkedin:       https://www.linkedin.com/in/foo
   instagram:      
