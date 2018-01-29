@@ -88,6 +88,8 @@ links:
     url: /tags/
   - title: <i class="fa fa-archive"></i> Archive
     url: /archive/
+  - title: <i class="fa fa-paperclip"></i> Resume
+    url: /resume/
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
