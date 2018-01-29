@@ -7,10 +7,10 @@ relative_permalinks: false
 encoding: utf-8
 
 # Setup
-title:               My Website
+title:               The Hivemind
 #tagline:             'foo's website
-description:         Foo's blog...
-url: https://lanyon-plus.sbamin.com
+description:         A Blog by Dylan Lott
+url: https://dylanlott.github.io
 baseurl: ""
 urlimg: https://lanyon-plus.sbamin.com/images/
 ## If you do not have custom domain, comment top three lines, uncomment three lines below and replace dyndna with your github userid and lanyon-plus with your project name. Also, rename CNAME file to CNAME.sample
@@ -49,14 +49,14 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
-  url:               https://twitter.com/abcd
+  name:              Dylan Lott 
+  url:               https://twitter.com/dylanlott
   avatar:         foo.png
-  #email:           
+  email:          lott.dylan@gmail.com
 
 # Owner/author information
 owner:
-  name:           Foo Boo
+  name:           Dylan Lott 
   avatar:         foo.png
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
@@ -88,13 +88,10 @@ links:
     url: /tags/
   - title: <i class="fa fa-archive"></i> Archive
     url: /archive/
-  - title: <i class="iconside iconm-wordpress"></i> Old Blog
-    url: https://foo.wordpress.com
-    external: true
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
   - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
+    url: https://twitter.com/dylanlott
     external: true
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
@@ -113,6 +110,6 @@ disqus_shortname: foo
 #google_analytics:   xyz123abc
 
 #### For dummy website only - remove if you wish ####
-github_repo: https://github.com/dyndna/lanyon-plus
+github_repo: https://github.com/dylanlott/dylanlott.github.io
 version: 1.1.1
 ## END ##
