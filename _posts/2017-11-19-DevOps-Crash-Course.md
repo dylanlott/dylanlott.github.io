@@ -36,4 +36,8 @@ Each post will take the following format:
 - List of tech used in the tutorial
 - If applicable, a "next" section where I'll recommend where to progress from there or continue on. 
 
+## Resources List 
+Master list of valuable and useful operations related tutorials that I've used in the past. 
+
+* [https://code.lengstorf.com/deploy-nodejs-ssl-digitalocean/](Deploy NodeJS App with SSL)
 
