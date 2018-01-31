@@ -62,9 +62,9 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        abcd
+  twitter:        dylanlott 
   facebook:       
-  github:         xyz123abc
+  github:         dylanlott
   stackexchange:  
   linkedin:       https://www.linkedin.com/in/foo
   instagram:      
